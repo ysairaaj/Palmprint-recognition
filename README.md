@@ -12,3 +12,5 @@ The code implements the following pictorial representation :
 
 Some examples of ROI extraction by the trained network are :
 ![Ex:1](diagram2.png)  and ![Ex:2](diagram3.png)    
+
+The system works by using VGG-16 net to generate the parameters of the affine transformation matrix given below : 
