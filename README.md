@@ -8,4 +8,4 @@ Uses the following architecture for Palmprint ROI extraction :
 ![Architecture](Palm_ROI_extractor_model.png) 
 
 The code implements the following pictorial representation :
-![Spatial_transform_net](config2.png) 
+![Spatial_transform_net](config2.PNG) 
