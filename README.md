@@ -10,5 +10,5 @@ Uses the following architecture for Palmprint ROI extraction :
 The code implements the following pictorial representation :
 ![Spatial_transform_net](config2.PNG)  
 
-Some examples f ROI extraction by the trained network are :
+Some examples of ROI extraction by the trained network are :
 ![Ex:1](diagram2.png)  and ![Ex:2](diagram3.png)    
