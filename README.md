@@ -19,4 +19,6 @@ The system works by using VGG-16 net to generate the parameters of the affine tr
 
  This helps in different kinds of transformations like translation , scaling , rotations , bending etc . 
  
-![Affine matrix](affine_matrix.PNG) 
+![Affine transformations](Affine.png)  
+
+This helps in extracting information containing person identity which can be used to compare and differentiate between people .
