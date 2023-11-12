@@ -5,8 +5,8 @@ Packages used ----
  - Numpy
 
 Uses the following architecture for Palmprint ROI extraction :
-![Architecture](Palm_ROI_extractor_model.png  | width=100) 
 
+<img src="Palm_ROI_extractor_model.png" width="100" height="100">
 The code implements the following pictorial representation :
 ![Spatial_transform_net](config2.PNG)  
 
